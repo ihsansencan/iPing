@@ -1,5 +1,4 @@
 # # iPing
-* * *
 
 Simple iPing...
 
